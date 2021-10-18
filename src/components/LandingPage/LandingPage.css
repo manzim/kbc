@@ -1,0 +1,12 @@
+@media (max-width: 769px) {
+    ._landingmobile_ {
+        background-repeat: no-repeat !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover !important;
+    }
+}
+
+*:focus {
+    outline: 0 !important;
+}
